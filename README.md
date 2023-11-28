@@ -6,7 +6,7 @@ En este proyecto usé el editor de código *Visual Studio Code* y los lenguajes 
 ### Elementos del proyecto
 <ol>
   <li> Título </li>
-  <li> Párrafo </li>
+  <li> Frase </li>
   <li> Botón </li>
   <li> Imagen de fondo </li>  
 </ol>
