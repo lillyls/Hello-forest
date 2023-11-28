@@ -12,5 +12,6 @@ En este proyecto usé el editor de código *Visual Studio Code* y los lenguajes 
 </ol>
 
 ### Vista Previa
-<img width="918" alt="image" src="https://github.com/lillyls/Hello-forest/assets/151888503/4d888e9d-dee0-42f2-b082-103e1a774e5a">
+<img width="913" alt="image" src="https://github.com/lillyls/Hello-forest/assets/151888503/58c1efe7-89a7-4eab-8fa1-b18f72c37db8">
+
 
