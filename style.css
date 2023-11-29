@@ -40,3 +40,6 @@ body{
     font-weight: bold;
     cursor: pointer;
 }
+.tachado{
+   text-decoration: line-through;
+}
